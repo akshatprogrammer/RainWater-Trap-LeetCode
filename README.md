@@ -9,5 +9,5 @@ Here is the famous leetcode problem of Rainwater trap
  
  
  # Adding the algorithm
- ![img]()
+ ![img](https://github.com/akshatprogrammer/RainWater-Trap-LeetCode/blob/main/algo.jpg)
  
